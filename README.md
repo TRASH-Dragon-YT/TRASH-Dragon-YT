@@ -5,8 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dragonyt?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https://real.trash-dragon.tk)](https://real.trash-dragon.tk)
 
-[![Discord profile](https://discord.c99.nl/widget/theme-3/483357154502377473
-.png)](https://discord.com/users/483357154502377473)
+[![Discord profile](https://discord.c99.nl/widget/theme-3/483357154502377473.png)](https://discord.com/users/483357154502377473)
 
 This is the place where I opensource stuff and break things :rofl:
 
