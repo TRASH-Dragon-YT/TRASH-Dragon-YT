@@ -6,8 +6,7 @@
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https://real.trash-dragon.tk)](https://real.trash-dragon.tk)
 
 [![Discord profile](https://discord.c99.nl/widget/theme-3/483357154502377473
-.png)](https://discord.com/users/483357154502377473
-)
+.png)](https://discord.com/users/483357154502377473)
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -25,9 +24,8 @@ This is the place where I opensource stuff and break things :rofl:
  | 🏆 Contributions (Total) | (soon) |
 |:-:|:-:|
 | **🏆 Contributions in 2021:** | **0**|
-| **📦 Github Storage:** | **0 kB used**|
 | **📝 Total lines of code:** | **0**|
-| **📚 Public Repositories:** | **0** |
+| **📚 Public Repositories:** | **1** |
 | **🔑 Private Repositories:** | **1** |
 <details><summary>✨ Show more stats</summary>
 
@@ -37,7 +35,7 @@ This is the place where I opensource stuff and break things :rofl:
 🌞 Morning    0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 🌆 Daytime    0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 🌃 Evening    0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
-🌙 Night      0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+🌙 Night      3 commits    █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
 ```
 #### 📅 I'm pretty new :)
 
@@ -66,5 +64,5 @@ Windows                  4 mins              ███████████�
 <details>
  <summary> </summary>
  <h5>The cake is a lie 🍰❤️</h5>
- <a href=""><img src="https://komarev.com/ghpvc/?username=TRASH-Dragon-YT&style=flat-square&color=333333&label=Github+profile+views" alt="Github profile views"></a>
+ <a href="https://github.com/TRASH-Dragon-YT"><img src="https://komarev.com/ghpvc/?username=TRASH-Dragon-YT&style=flat-square&color=333333&label=Github+profile+views" alt="Github profile views"></a>
 </details>
