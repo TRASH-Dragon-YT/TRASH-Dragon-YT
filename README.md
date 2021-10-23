@@ -41,7 +41,7 @@ This is the place where I opensource stuff and break things :rofl:
 ```text
 Monday       0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 Tuesday      0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
-Wednesday    0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
+Wednesday    4 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
 Thursday     0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 Friday       0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 Saturday     0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
