@@ -2,7 +2,7 @@
 ## Hi! I'm Dragon_YT <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
 [![Discord](https://img.shields.io/discord/893375619272949770?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/3q5Ac8u6fB)
 [![GitHub followers](https://img.shields.io/github/followers/TRASH-Dragon-YT?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/dominant_droit?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/dragonyt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dominant_droit?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/dominant_droit)
 
 [![Discord profile](https://discord.c99.nl/widget/theme-2/902313445121212536.png)](https://discord.com/users/483357154502377473)
 
